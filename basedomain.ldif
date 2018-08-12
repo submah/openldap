@@ -1,0 +1,19 @@
+dn: dc=c4clouds,dc=com
+objectClass: top
+objectClass: dcObject
+objectclass: organization
+o: Server World
+dc: c4clouds LTD 
+
+dn: cn=Manager,dc=c4clouds,dc=com
+objectClass: organizationalRole
+cn: Manager
+description: Directory Manager
+
+dn: ou=People,dc=c4clouds,dc=com
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Group,dc=c4clouds,dc=com
+objectClass: organizationalUnit
+ou: Group
