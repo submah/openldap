@@ -3,7 +3,7 @@ objectClass: top
 objectClass: dcObject
 objectclass: organization
 o: Server World
-dc: c4clouds LTD 
+dc: c4clouds
 
 dn: cn=Manager,dc=c4clouds,dc=com
 objectClass: organizationalRole
